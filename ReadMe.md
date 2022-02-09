@@ -1,9 +1,9 @@
 
 
-  # ReadMe generator
-  https://github/com/undefined/ReadMe generator
+  # Zookeeper
+  https://github.com/Dennyboy/Zookeeper
   # Description
-  This project allows you to create readme's with ease.
+  This project allows zookeepers to maintain all of the animals in the zoo.
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,19 +13,19 @@
   * [Questions](#questions)
   # Installation
   The following have to be installed in order to run the program.
-  Node.js and inquirer package.
+  Node.js and Express.js
   # Usage
-  To use this app, Simply install packages and run node index in the terminal
+  To use this app, First install all of the packages required, then run "node index" in the terminal.
   # License
   This project is licensed under the MIT License license.
   
 ![Github License](http://img.shields.io/badge/license-MIT License-blue.svg)
 
   # Contributing 
-  Contributors: N/A
+  Contributors: Tomhanks@github.net
 
   # Questions
-  If so please contact me at dennyboy@hotmail.com
+  If so please email me at dennnyboy@hotmail.net
 
   
 
