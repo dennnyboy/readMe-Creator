@@ -1,9 +1,9 @@
 
 
-  # afefes
-  https://github/com/undefined/afefes
+  # ReadMe generator
+  https://github/com/undefined/ReadMe generator
   # Description
-  aesfeafase
+  This project allows you to create readme's with ease.
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,18 +13,19 @@
   * [Questions](#questions)
   # Installation
   The following have to be installed in order to run the program.
+  Node.js and inquirer package.
   # Usage
-  To use this app, saefesaf
+  To use this app, Simply install packages and run node index in the terminal
   # License
-  This project is licensed under the asef license.
+  This project is licensed under the MIT License license.
   
-![Github License](http://img.shields.io/badge/license-asef-blue.svg)
+![Github License](http://img.shields.io/badge/license-MIT License-blue.svg)
 
   # Contributing 
-  Contributors: asef
+  Contributors: N/A
 
   # Questions
-  aesf
+  If so please contact me at dennyboy@hotmail.com
 
   
 

@@ -15,6 +15,7 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   # Installation
   The following have to be installed in order to run the program.
+  ${data.installation}
   # Usage
   To use this app, ${data.usage}
   # License
